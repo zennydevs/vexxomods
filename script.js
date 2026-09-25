@@ -1,7 +1,7 @@
 // =========================================================
 // VexxosMods — Site Scripts
 // Vanilla JS, no dependencies, no build step.
-// Made by Jimmy G
+// Made by Jimmy & John Co
 // =========================================================
 
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
